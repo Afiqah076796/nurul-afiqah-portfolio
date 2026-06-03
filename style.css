@@ -1149,30 +1149,44 @@ footer{
     line-height:2;
 }
 
-/* GALLERY */
+/* =========================
+   GALLERY
+========================= */
 
 .gallery{
 
-    display:grid;
+    display:flex;
 
-    grid-template-columns:
-    repeat(auto-fit,minmax(350px,1fr));
+    flex-direction:column;
 
-    gap:30px;
+    align-items:center;
+
+    gap:40px;
 
     margin-top:20px;
 }
 
 .gallery img{
 
-    width:100%;
+    width:90%;
+
+    max-width:500px;
 
     height:auto;
+
+    display:block;
 
     border-radius:15px;
 
     box-shadow:
     0 5px 15px rgba(0,0,0,.08);
+
+    transition:.3s;
+}
+
+.gallery img:hover{
+
+    transform:scale(1.02);
 }
 
 /* PROJECT TAGS */
