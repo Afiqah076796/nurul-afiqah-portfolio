@@ -765,6 +765,18 @@ footer{
     margin-bottom:20px;
 }
 
+.project-img{
+
+    width:100%;
+
+    height:180px;
+
+    object-fit:cover;
+
+    border-radius:15px;
+
+    margin-bottom:20px;
+}
 /* PROJECT TAGS */
 
 .project-tags{
