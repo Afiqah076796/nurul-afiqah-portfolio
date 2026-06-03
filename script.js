@@ -29,7 +29,7 @@ const observer = new IntersectionObserver((entries) => {
 });
 
 const hiddenElements = document.querySelectorAll(
-'section, .card, .project-card, .timeline-card, .contact-card, .stat-box, .about-intro-card, .contact-form'
+'.fade-section, .project-card, .timeline-card, .contact-card, .stat-box, .about-intro-card, .contact-form'
 );
 
 hiddenElements.forEach((el) => {
