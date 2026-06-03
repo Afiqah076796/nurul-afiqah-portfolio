@@ -803,6 +803,34 @@ footer{
     font-weight:bold;
 }
 
+.project-btn{
+
+    display:inline-block;
+
+    margin-top:20px;
+
+    padding:10px 20px;
+
+    background:#7a8b6f;
+
+    color:white;
+
+    text-decoration:none;
+
+    border-radius:25px;
+
+    font-weight:bold;
+
+    transition:.3s;
+}
+
+.project-btn:hover{
+
+    transform:translateY(-3px);
+
+    opacity:.9;
+}
+
 /* MOBILE */
 
 @media(max-width:900px){
