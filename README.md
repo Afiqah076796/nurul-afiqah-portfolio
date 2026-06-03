@@ -123,7 +123,7 @@ https://afiqah076796.github.io/nurul-afiqah-portfolio/
 
 **Nurul Afiqah**
 
-Diploma in Software Engineering
+Degree in Information Technology ( Informatics Media )
 
 Faculty of Informatics & Computing
 
