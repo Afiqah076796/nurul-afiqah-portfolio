@@ -95,11 +95,11 @@ The website automatically adapts to different screen sizes, ensuring usability a
 
 ### Home Page
 
-(Add Screenshot Here)
+![Home Page](home.png)
 
 ### About Page
 
-(Add Screenshot Here)
+![About Page](about.png)
 
 ### Projects Page
 
@@ -107,7 +107,7 @@ The website automatically adapts to different screen sizes, ensuring usability a
 
 ### Contact Page
 
-(Add Screenshot Here)
+![Contact Page](contact.png)
 
 ---
 
