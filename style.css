@@ -1419,11 +1419,6 @@ footer{
     0 5px 15px rgba(0,0,0,.08);
 }
 
-.design-gallery img:hover{
-
-    transform:scale(1.02);
-}
-
 /* MOBILE */
 
 @media(max-width:768px){
