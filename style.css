@@ -1427,6 +1427,68 @@ footer{
     transform:scale(1.03);
 }
 
+}
+
+/* =========================
+   LOGO GALLERY
+========================= */
+
+.logo-gallery{
+
+    display:flex;
+
+    justify-content:center;
+
+    flex-wrap:wrap;
+
+    gap:25px;
+
+    margin-top:20px;
+}
+
+.logo-gallery img{
+
+    width:180px;
+
+    height:180px;
+
+    object-fit:contain;
+
+    background:white;
+
+    padding:15px;
+
+    border-radius:20px;
+
+    box-shadow:
+    0 5px 15px rgba(0,0,0,.08);
+
+    transition:.3s;
+}
+
+.logo-gallery img:hover{
+
+    transform:scale(1.05);
+}
+
+/* MOBILE */
+
+@media(max-width:768px){
+
+    .logo-gallery{
+
+        justify-content:center;
+    }
+
+    .logo-gallery img{
+
+        width:150px;
+
+        height:150px;
+    }
+
+}
+
 /* MOBILE */
 
 @media(max-width:768px){
