@@ -1385,21 +1385,6 @@ footer{
     }
 
 }
-
-/* =========================
-   GRAPHIC DESIGN PAGE
-========================= */
-
-.design-gallery{
-
-    display:grid;
-
-    grid-template-columns:repeat(2,1fr);
-
-    gap:25px;
-
-    margin-top:20px;
-}
 /* =========================
    GRAPHIC DESIGN PAGE
 ========================= */
@@ -1412,7 +1397,7 @@ footer{
 
     align-items:flex-start;
 
-    gap:25px;
+    gap:20px;
 
     flex-wrap:wrap;
 
@@ -1421,9 +1406,7 @@ footer{
 
 .design-gallery img{
 
-    width:250px;
-
-    max-width:100%;
+    width:200px;
 
     height:auto;
 
@@ -1457,17 +1440,7 @@ footer{
 
     .design-gallery img{
 
-        width:220px;
-    }
-}
-/* MOBILE */
-
-@media(max-width:768px){
-
-    .design-gallery{
-
-        grid-template-columns:1fr;
+        width:180px;
     }
 
 }
-
