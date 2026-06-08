@@ -1399,24 +1399,66 @@ footer{
     margin-top:20px;
 }
 
+/* =========================
+   GRAPHIC DESIGN PAGE
+========================= */
+
+.design-gallery{
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:flex-start;
+
+    gap:25px;
+
+    flex-wrap:wrap;
+
+    margin-top:20px;
+}
+
 .design-gallery img{
 
-    width:100%;
+    width:250px;
 
-    max-height:500px;
+    max-width:100%;
 
-    object-fit:contain;
-
-    background:white;
+    height:auto;
 
     border-radius:15px;
+
+    background:white;
 
     padding:10px;
 
     box-shadow:
     0 5px 15px rgba(0,0,0,.08);
+
+    transition:.3s;
 }
 
+.design-gallery img:hover{
+
+    transform:scale(1.03);
+}
+
+/* MOBILE */
+
+@media(max-width:768px){
+
+    .design-gallery{
+
+        flex-direction:column;
+
+        align-items:center;
+    }
+
+    .design-gallery img{
+
+        width:220px;
+    }
+}
 /* MOBILE */
 
 @media(max-width:768px){
