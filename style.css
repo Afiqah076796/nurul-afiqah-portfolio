@@ -1390,22 +1390,22 @@ footer{
 
 .design-gallery{
 
+    width:80%;
+
+    margin:20px auto;
+
     display:grid;
 
     grid-template-columns:repeat(2,1fr);
 
     gap:25px;
-
-    margin-top:20px;
-
-    align-items:start;
 }
 
 .design-gallery img{
 
     width:100%;
 
-    height:450px;
+    height:350px;
 
     object-fit:contain;
 
