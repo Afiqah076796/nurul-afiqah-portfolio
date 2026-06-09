@@ -1,154 +1,102 @@
-# 🌸 Nurul Afiqah Portfolio Website
+Nurul Afiqah Portfolio Website
+🌐 Project Overview
 
-## 🌐 Project Overview
+This project is a personal portfolio website developed to showcase my academic background, technical skills, multimedia projects, and professional achievements. The website highlights my work in web development, graphic design, multimedia production, animation, and Augmented Reality (AR) application development.
 
-This project is a personal portfolio website developed to showcase my academic background, technical skills, multimedia projects, and professional information through a modern and responsive user interface.
+The portfolio was built using HTML, CSS, and JavaScript, featuring a modern responsive design, dark mode functionality, interactive animations, and downloadable resume access.
 
-The website was built using HTML, CSS, and JavaScript, featuring interactive elements such as Dark Mode, scroll animations, and mobile-responsive layouts.
+✨ Features
+Responsive design for desktop, tablet, and mobile devices
+Interactive navigation menu
+Personal introduction and profile
+About Me section
+Project showcase
+Contact page
+Dark Mode toggle
+Scroll fade-in animations
+Downloadable Resume
+GitHub Pages deployment
+📄 Website Pages
+🏠 Home Page
 
----
+Provides a brief introduction about me, highlights my skills, featured projects, and includes a downloadable resume.
 
-## ✨ Features
+👤 About Page
 
-- Responsive design for desktop, tablet, and mobile devices
-- Interactive navigation menu
-- Personal introduction and profile section
-- About Me page
-- Project showcase pages
-- Contact page
-- Dark Mode toggle
-- Scroll fade-in animations
-- GitHub Pages deployment
+Contains information about my educational background, career goals, technical skills, interests, and personal journey.
 
----
+💼 Projects Page
 
-## 📄 Website Pages
+Showcases projects that demonstrate my software development, multimedia design, animation, and creative skills.
 
-### 🏠 Home Page
-Provides a brief introduction about me, highlights my skills, and features selected projects.
+📧 Contact Page
 
-### 👤 About Page
-Contains information about my educational background, interests, technical skills, achievements, and future career aspirations.
+Displays contact information and allows visitors to connect with me professionally.
 
-### 💼 Projects Page
-Showcases multimedia and software development projects completed throughout my studies.
+🚀 Featured Projects
+🌺 Salu Sabah: Sabahan Traditional Attire AR
 
-### 🌺 Salu Sabah Project Page
-A dedicated project page presenting the development process, objectives, technologies used, galleries, challenges, and outcomes of the Salu Sabah Augmented Reality application.
+An Augmented Reality (AR) application developed to preserve and promote Sabah's traditional attire through interactive digital learning.
 
-### 🎥 Animation Portfolio Page
-A collection of 2D and 3D animation projects demonstrating visual storytelling, motion graphics, modelling, and animation skills.
+Key Features
+Augmented Reality visualisation
+Interactive cultural learning experience
+20 traditional attire 3D models
+Information panels for each attire
+Educational and heritage preservation focus
+Tools & Technologies
+Unity
+Autodesk Maya
+C#
+HTML
+Canva
+Adobe Photoshop
+🎥 2D & 3D Animation Portfolio
 
-### 📧 Contact Page
-Displays contact information and provides a professional platform for communication.
+A collection of animation projects showcasing character animation, motion graphics, 3D modelling, rendering, and visual storytelling skills.
 
----
+Software Used
+Blender
+Autodesk Maya
+Adobe After Effects
+CapCut
+Adobe Photoshop
+🎨 Graphic Design Portfolio
 
-## 🚀 Featured Project
+A collection of poster designs and logo designs created using Canva and Adobe Photoshop.
 
-### 🌺 Salu Sabah: Sabahan Traditional Attire AR
+Design Categories
+Poster Design
+Logo Design
+Visual Communication
+Branding Concepts
+Software Used
+Canva
+Adobe Photoshop
+🛠 Technologies Used
+HTML5
+CSS3
+JavaScript
+Font Awesome
+GitHub Pages
+🎨 Additional Features
+🌙 Dark Mode
 
-Salu Sabah is an Augmented Reality (AR) application developed to preserve and promote Sabah's traditional attire through interactive digital learning.
+Allows users to switch between light and dark themes for better accessibility and user preference.
 
-### Key Features
+✨ Scroll Animation
 
-- Augmented Reality visualization
-- Interactive cultural learning experience
-- 20 traditional attire 3D models
-- Digital storybook integration
-- Information panels for each attire
-- Educational and heritage preservation focus
+Sections smoothly fade into view as users scroll through the website.
 
-### Tools & Technologies
+📱 Responsive Design
 
-- Unity
-- Autodesk Maya
-- C#
-- HTML
-- CSS
-- JavaScript
-- Canva
-- Adobe Photoshop
-- Augmented Reality (AR)
+The website automatically adapts to different screen sizes, ensuring usability across desktop and mobile devices.
 
----
+📄 Resume Download
 
-## 🎥 Animation Portfolio
-
-The Animation Portfolio showcases a variety of multimedia projects involving both 2D and 3D animation.
-
-### Featured Works
-
-- 2D Animation Projects
-- 3D Animation Showcase
-- Motion Graphics
-- Visual Storytelling Projects
-- Character Animation
-- Multimedia Production
-
-### Software Used
-
-- Autodesk Maya
-- Blender
-- Adobe After Effects
-- CapCut
-- Adobe Photoshop
-
----
-
-## 🎨 Graphic Design Portfolio
-
-A collection of creative design works including:
-
-- Posters
-- Social Media Content
-- Promotional Materials
-- Digital Graphics
-- Multimedia Design Projects
+Visitors can download my resume directly from the homepage.
 
 ---
-
-## 🛠 Technologies Used
-
-### Front-End Development
-
-- HTML5
-- CSS3
-- JavaScript
-
-### Multimedia Tools
-
-- Autodesk Maya
-- Blender
-- Adobe Photoshop
-- Adobe After Effects
-- Canva
-- CapCut
-
-### Development Tools
-
-- Visual Studio Code
-- GitHub
-- GitHub Pages
-
----
-
-## 🎨 Additional Features
-
-### 🌙 Dark Mode
-
-Allows users to switch between light and dark themes for improved accessibility and user preference.
-
-### ✨ Scroll Animation
-
-Cards and sections smoothly fade into view as users scroll through the website.
-
-### 📱 Responsive Design
-
-The website automatically adapts to different screen sizes, ensuring usability across desktop, tablet, and mobile devices.
-
----
-
 
 ## 📸 Website Preview
 
